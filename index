@@ -5,7 +5,7 @@
   </HEAD>
   <BODY>
   <div id="kinder">
-    <button class="btn" id="1">Basic addition</button>
+    <button class="btn" id="1">Basic addition</button><p class="p" id="1,1">
     </div>
   </BODY>
   <STYLE>
@@ -20,6 +20,10 @@
   padding-left: 50px;
   padding-top: 50px;
   font-family: Arial;
+}
+.btn
+{
+  display: inline;
 }
 </STYLE>
 <SCRIPT>
