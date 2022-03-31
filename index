@@ -5,7 +5,7 @@
   </HEAD>
   <BODY>
   <div id="kinder">
-    <button class="btn" id="1">Basic addition</button><p class="p" id="1,1">
+    <button class="btn" id="1">Basic addition</button><p class="p" id="1,1,1"></p><p class="p">/</p><p class="p" id="1,1,1"></p>
     </div>
   </BODY>
   <STYLE>
