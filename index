@@ -4,7 +4,9 @@
     <h1 id="top">Learn'd</h1>
   </HEAD>
   <BODY>
-    
+  <div id="kinder">
+    <button class="btn" id="1">Basic addition</button>
+    </div>
   </BODY>
   <STYLE>
   html
@@ -13,6 +15,7 @@
 }
 #top
 {
+  position: fixed;
   font-size: 75px;
   padding-left: 50px;
   padding-top: 50px;
